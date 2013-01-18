@@ -1,0 +1,41 @@
+{
+    "author": {
+        "name": "Nurul Ferdous", 
+        "email": "nurul@ferdo.us", 
+        "url": "http://dynamicguy.com"
+    }, 
+    "bugs": {
+        "url": "https://github.com/dynamicguy/f/issues"
+    }, 
+    "demo": "http://dynamicguy.com/jquery-f", 
+    "dependencies": {
+        "jquery": ">=1.4.3"
+    }, 
+    "description": "jQuery Tag Cloud looking like a 3d sphere", 
+    "docs": "https://github.com/dynamicguy/f/wiki", 
+    "homepage": "http://dynamicguy.com/jquery-f", 
+    "keywords": [
+        "tag", 
+        "cloud", 
+        "tag cloud", 
+        "animation", 
+        "visualization"
+    ], 
+    "licenses": [
+        {
+            "type": "MIT", 
+            "url": "http://opensource.org/licenses/MIT"
+        }, 
+        {
+            "type": "GPLv2", 
+            "url": "http://opensource.org/licenses/gpl-2.0"
+        }
+    ], 
+    "name": "f", 
+    "repository": {
+        "type": "git", 
+        "url": "git@github.com:dynamicguy/f.git"
+    }, 
+    "title": "jQuery F", 
+    "version": "0.1.0"
+}
