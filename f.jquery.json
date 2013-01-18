@@ -11,13 +11,13 @@
     "dependencies": {
         "jquery": ">=1.4.3"
     }, 
-    "description": "jQuery Tag Cloud looking like a 3d sphere", 
+    "description": "jQuery F", 
     "docs": "https://github.com/dynamicguy/f/wiki", 
     "homepage": "http://dynamicguy.com/jquery-f", 
     "keywords": [
-        "tag", 
-        "cloud", 
-        "tag cloud", 
+        "f", 
+        "ui", 
+        "dom", 
         "animation", 
         "visualization"
     ], 
@@ -37,5 +37,5 @@
         "url": "git@github.com:dynamicguy/f.git"
     }, 
     "title": "jQuery F", 
-    "version": "0.1.0"
+    "version": "1.1.7"
 }
